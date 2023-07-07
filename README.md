@@ -5,7 +5,7 @@
 
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eirinidonti&theme=nord_bright)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eirinidonti](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eirinidonti)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eirinidonti](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eirinidonti))
 
 <!-- ![Top Langs2](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eirinidonti&theme=nord_bright&utcOffset={utcOffset}) -->
 
