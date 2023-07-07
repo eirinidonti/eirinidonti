@@ -5,7 +5,7 @@
 
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eirinidonti&theme=nord_bright)
 
-[![Top Langs1](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eirinidonti&theme=nord_bright)]
+![Top Langs1](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eirinidonti&theme=nord_bright)
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=eirinidonti&theme=horizon&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) -->
 
