@@ -5,6 +5,8 @@
 
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eirinidonti&theme=nord_bright)
 
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme=nord_bright)
+
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=eirinidonti&theme=horizon&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eirinidonti&layout=pie)](https://github.com/eirinidonti/ECE-NTUA) -->
