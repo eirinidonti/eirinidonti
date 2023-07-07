@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying Electrical and Computer Engineering at the National Technical University of Athens!
 - 📫 How to reach me: [![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%CE%B5%CE%B9%CF%81%CE%AE%CE%BD%CE%B7-%CE%B4-a11a26257/) [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eirinidonti)
 
-#### ![Git HubIm](https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png) Profile Details
+#### ![Git HubIm](https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png){: width="50%"} Profile Details
 ![Top Langs0](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eirinidonti&theme=2077)
 
 <!-- ![Top Langs1](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eirinidonti) -->
