@@ -5,8 +5,6 @@
 
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eirinidonti&theme=2077)
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=eirinidonti&theme=2077)
-
 <!-- ![Top Langs1](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eirinidonti) -->
 
 <!-- ![Top Langs2](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eirinidonti&theme=nord_bright&utcOffset={utcOffset}) -->
