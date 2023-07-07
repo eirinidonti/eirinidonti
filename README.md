@@ -4,9 +4,9 @@
 - 📫 How to reach me: [![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%CE%B5%CE%B9%CF%81%CE%AE%CE%BD%CE%B7-%CE%B4-a11a26257/) [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eirinidonti)
 
 #### Profile Details
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eirinidonti&theme=2077)
+![Top Langs0](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eirinidonti&theme=2077)
 
-<!-- ![Top Langs01](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eirinidonti) -->
+<!-- ![Top Langs1](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eirinidonti) -->
 
 <!-- ![Top Langs2](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eirinidonti&theme=nord_bright&utcOffset={utcOffset}) -->
 
