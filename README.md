@@ -5,7 +5,7 @@
 
 ---
 
-#### :large_blue_diamond: :octocat: Profile Details
+#### :octocat: Profile Details
 ![git analysis](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eirinidonti&theme=2077)
 
 <!-- ![Top Langs1](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eirinidonti) -->
