@@ -1,7 +1,7 @@
 ### Hi there, I'm Eirini Donti 👋
 
 - 🌱 I’m currently attending undergraduate studies in Electrical and Computer Engineering at the National Technical University of Athens!
-- 📫 How to reach me: [![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eirinidonti/) [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eirinidonti)
+- 📫 How to reach me: [![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eirinidonti/) [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eirinidonti?tab=repositories)
 
 ---
 
